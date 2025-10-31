@@ -10,7 +10,7 @@ Prereqs
 - Configure environment variables in a `.env` file or host environment. You can use `.env.example` as a starting point.
 
 Environment variables
----------------------
+--------------------- 
 Provide either a single URL or discrete fields:
 
 - DATABASE_URL or MYSQL_URL or MYSQL_DATABASE_URL (e.g., `mysql://user:pass@host:3306/dbname`)
